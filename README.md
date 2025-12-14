@@ -2,6 +2,14 @@
 
 A blockchain-based good and bad deeds tracking system built on the IOTA network. Santa Ledger allows users to record their deeds, have others report on their behavior, and claim randomized rewards based on their good deed ratio.
 
+## Contract Address
+
+```
+0xac1886a011d434df0142f640d415a2b3044a7ce60575405db628e149e6f0c478
+```
+
+<img src="assets/image.png">
+
 ## 📖 Overview
 
 Santa Ledger is a decentralized application that gamifies good behavior by:
@@ -314,50 +322,3 @@ User → withdraw_rewards() → User's Wallet
 - Record Deed: ~0.0005 IOTA
 - Claim Reward: ~0.001 IOTA
 - Withdraw: ~0.0005 IOTA
-
-## 🛣️ Roadmap
-
-### Future Enhancements
-
-- [ ] Cooldown period between claims
-- [ ] Deed categories (charity, environment, kindness, etc.)
-- [ ] Leaderboard system
-- [ ] NFT badges for milestones
-- [ ] Deed verification system
-- [ ] Multi-language support
-- [ ] Mobile app integration
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Built on IOTA blockchain
-- Uses Move programming language
-- Inspired by the spirit of Christmas and good deeds
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-
-## 🎄 Happy Deed Recording!
-
-Remember: Every good deed counts, and Santa is always watching! 👀
-
----
-
-**Made with ❤️ for a better world through blockchain technology**
